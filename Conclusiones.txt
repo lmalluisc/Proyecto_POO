@@ -1,0 +1,12 @@
+
+
+LA HERRAMIENTA GIT
+
+•Nos facilita el trabajo colaborativo ya que varios programadores pueden estar editando el mismo archivo, o versiones distintas del mismo archivo, y todos los cambios serán reflejados en el documento final.
+
+•Permite regresar a versiones anteriores de forma sencilla y muy rápida. En caso equivocaciones un proyecto en producción, volver a la última versión re la puede realizar con un comando. 
+
+
+•Empezar a trabajar desde otro entorno es fácil debido que se puede  clonar  el proyecto a un nuevo entorno.
+
+•Git tiene los mejores repositorios en la nube para manejar nuestros  proyectos, lo que nos admite  un control completo el  código y permite el acceso y la posibilidad de estar conectado con nuestro  equipo, sin importar en que parte del planeta nos encontremos.
